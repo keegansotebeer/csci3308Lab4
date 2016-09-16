@@ -1,1 +1,2 @@
-# csci3308Lab4
+# Keegan Sotebeer
+# CSCI 3308 Lab 4
